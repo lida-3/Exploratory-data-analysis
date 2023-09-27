@@ -1,4 +1,4 @@
-# Exploratory-data-analysis
+# Exploratory data analysis
 NLP project made for my Master's Thesis
 
 My thesis deals with the topic of data analysis by natural language text processing. 
